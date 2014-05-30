@@ -1,6 +1,0 @@
-- Este archivo lanza una conexión al servidor para pruebas
-
-
-- La cadena a enviar se ha de encontrar en el archivo accion.txt
-
-- Es necesario edita la IP del servidor al que se conecta.

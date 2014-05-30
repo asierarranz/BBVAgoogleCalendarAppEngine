@@ -1,1 +1,0 @@
-{"CalendarId":"063s91om6177qnudr5culi8v48@group.calendar.google.com","Command":"insert","EventId":null,"Items":{"colorId":null,"description":"Meeting de repaso","end":{"dateTime":"2014-05-29T12:00:00Z","timeZone":"CET"},"location":"Oficina","start":{"dateTime":"2014-05-29T11:00:00Z","timeZone":"CET"},"summary":"Glass Meetaaaang BBVA"}}
