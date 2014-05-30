@@ -1,0 +1,1 @@
+{"Items":{"colorId":"11","description":"Esta es la descripcion del evento con JSON","end":{"dateTime":"2013-10-30T11:00:00Z","timeZone":"GMT"},"location":"Oficina","start":{"dateTime":"2013-10-30T10:00:00Z","timeZone":"GMT"},"summary":"Prueba con JSON 30\/10\/2013-12:38"},"calendarId":"6dlj8kcf1b8mclntupj5bo55dc@group.calendar.google.com"}
